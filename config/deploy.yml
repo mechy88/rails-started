@@ -7,7 +7,7 @@ image: mechy88/store
 # Deploy to these servers.
 servers:
   web:
-    - 134.122.125.113
+    - 143.244.161.157
   # job:
   #   hosts:
   #     - 192.168.0.1
